@@ -1,0 +1,40 @@
+{
+  "0": {
+    "_id": {
+      "$oid": "65fc3a6bee21bc4249532338"
+    },
+    "name": "Vis",
+    "type": "Quincaillerie",
+    "quantity": 100
+  },
+  "1": {
+    "_id": {
+      "$oid": "65fc46b22f185c679aec0680"
+    },
+    "name": "Plaque de métal",
+    "type": "Construction",
+    "quantity": 15
+  },
+  "2": {
+    "_id": {
+      "$oid": "65fc471557f1f2c76eec37c9"
+    },
+    "name": "Plaque de métal",
+    "type": "Construction",
+    "quantity": 15
+  },
+  "dependencies": {
+    "express": "^4.19.1"
+  },
+  "name": "src",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
